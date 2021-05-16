@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmersen333. I am trained as an economist, also philosopher of science. I am trying to publish in academic journals. I am looking forward to pick up data science as a hobby.
+- 👋 Hi, I’m @emmersen333. 
 - 👀 I’m interested in knowledge and innovation, culture evolution (evolutionary social science in general), formal models of human nature (sometines called decison and game theory). 
 - 🌱 I’m currently learning Python, SNA.
 - 💞️ I’m looking to collaborate on ...
